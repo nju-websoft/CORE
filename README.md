@@ -1,5 +1,5 @@
 # CORE is an toolkit to generate compact and relaxable answers to keyword queries over knowledge graphs.
-========================================================
+
 /core/src contains the code of the whole project.<br>
 /core/lib contains the libraries that the code is dependent on.<br>
 /core/ExampleGraph.pdf is an example entity-relation graph.<br>
